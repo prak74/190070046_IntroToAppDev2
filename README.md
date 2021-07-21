@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter project.
+A simple quizzing app which uses seperate files for classes, ensuring Encapsulation of classified info (answers)
 
 ## Getting Started
 
